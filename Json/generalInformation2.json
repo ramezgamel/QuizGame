@@ -1,0 +1,135 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the defining characteristic of someone who is described as hirsute?",
+      "correct_answer": "Hairy",
+      "answers": [
+        "Rude",
+        "Funny",
+        "Tall",
+        "Hairy"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Scotch whisky and Drambuie make up which cocktail?",
+      "correct_answer": "Rusty Nail",
+      "answers": [
+        "Screwdriver",
+        "Sex on the Beach",
+        "Manhattan",
+        "Rusty Nail"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is a &quot;dakimakura&quot;?",
+      "correct_answer": "A body pillow",
+      "answers": [
+        "A Chinese meal, essentially composed of fish",
+        "A yoga posture",
+        "A word used to describe two people who truly love each other",
+        "A body pillow"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 2013 how much money was lost by Nigerian scams?",
+      "correct_answer": "$12.7 Billion",
+      "answers": [
+        "$95 Million",
+        "$956 Million",
+        "$2.7 Billion",
+        "$12.7 Billion"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+      "correct_answer": "Shiatsu",
+      "answers": [
+        "Ukiyo",
+        "Majime",
+        "Ikigai",
+        "Shiatsu"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+      "correct_answer": "Tandoori",
+      "answers": [
+        "Biryani",
+        "Pani puri",
+        "Tiki masala",
+        "Tandoori"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+      "correct_answer": "Fruit Brute",
+      "answers": [
+        "Count Chocula",
+        "Franken Berry",
+        "Boo-Berry",
+        "Fruit Brute"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+      "correct_answer": "Twilight Zone Tower of Terror",
+      "answers": [
+        "The Haunted Mansion",
+        "Pirates of the Caribbean",
+        "Peter Pan&#039;s Flight",
+        "Twilight Zone Tower of Terror"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the original name of the search engine &quot;Google&quot;?",
+      "correct_answer": "BackRub",
+      "answers": [
+        "CatMassage",
+        "SearchPro",
+        "Netscape Navigator",
+        "BackRub"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Earl Grey tea is black tea flavoured with what?",
+      "correct_answer": "Bergamot oil",
+      "answers": [
+        "Lavender",
+        "Vanilla",
+        "Honey",
+        "Bergamot oil"
+      ]
+    }
+  ]
+}

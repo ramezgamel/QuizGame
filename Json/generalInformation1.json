@@ -1,0 +1,135 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+      "correct_answer": "Richard Branson",
+      "answers": [
+        "Alan Sugar",
+        "Donald Trump",
+        "Bill Gates",
+        "Richard Branson"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which company did Valve cooperate with in the creation of the Vive?",
+      "correct_answer": "HTC",
+      "answers": [
+        "Oculus",
+        "Google",
+        "Razer",
+        "HTC"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How would one say goodbye in Spanish?",
+      "correct_answer": "Adi&oacute;s",
+      "answers": [
+        " Hola",
+        "Au Revoir",
+        "Salir",
+        "Adi&oacute;s"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+      "correct_answer": "Truth",
+      "answers": [
+        "Answer",
+        "Cause",
+        "Source",
+        "Truth"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How tall is the Burj Khalifa?",
+      "correct_answer": "2,722 ft",
+      "answers": [
+        "2,717 ft",
+        "2,546 ft",
+        "3,024 ft",
+        "2,722 ft"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following card games revolves around numbers and basic math?",
+      "correct_answer": "Uno",
+      "answers": [
+        "Go Fish",
+        "Twister",
+        "Munchkin",
+        "Uno"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following presidents is not on Mount Rushmore?",
+      "correct_answer": "John F. Kennedy",
+      "answers": [
+        "Theodore Roosevelt",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "John F. Kennedy"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+      "correct_answer": "Liver",
+      "answers": [
+        "Heart",
+        "Stomach",
+        "Intestines",
+        "Liver"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following blood component forms a plug at the site of injuries?",
+      "correct_answer": "Platelets",
+      "answers": [
+        "Red blood cells",
+        "White blood cells",
+        "Blood plasma",
+        "Platelets"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the French word for &quot;fish&quot;?",
+      "correct_answer": "poisson",
+      "answers": [
+        "fiche",
+        "escargot",
+        "mer",
+        "poisson"
+      ]
+    }
+  ]
+}

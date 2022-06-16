@@ -1,0 +1,135 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many scoring zones are there on a conventional dart board?",
+      "correct_answer": "82",
+      "answers": [
+        "62",
+        "42",
+        "102",
+        "82"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a game of snooker, what colour ball is worth 3 points?",
+      "correct_answer": "Green",
+      "answers": [
+        "Yellow",
+        "Brown",
+        "Blue",
+        "Green"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In baseball, how many fouls are an out?",
+      "correct_answer": "0",
+      "answers": [
+        "5",
+        "3",
+        "2",
+        "0"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the highest belt you can get in Taekwondo?",
+      "correct_answer": "Black",
+      "answers": [
+        "White",
+        "Red",
+        "Green",
+        "Black"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Where was the Games of the XXII Olympiad held?",
+      "correct_answer": "Moscow",
+      "answers": [
+        "Barcelona",
+        "Tokyo",
+        "Los Angeles",
+        "Moscow"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+      "correct_answer": "Chile",
+      "answers": [
+        "Argentina",
+        "Brazil",
+        "Colombia",
+        "Chile"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which team won 2014 FIFA World Cup in Brazil?",
+      "correct_answer": "Germany",
+      "answers": [
+        "Argentina",
+        "Brazil",
+        "Netherlands",
+        "Germany"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the first official international game played?",
+      "correct_answer": "1872",
+      "answers": [
+        "1880",
+        "1863",
+        "1865",
+        "1872"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which player holds the NHL record of 2,857 points?",
+      "correct_answer": "Wayne Gretzky",
+      "answers": [
+        "Mario Lemieux ",
+        "Sidney Crosby",
+        "Gordie Howe",
+        "Wayne Gretzky"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+      "correct_answer": "Wayne Rooney",
+      "answers": [
+        "Cristiano Ronaldo",
+        "Robin Van Persie",
+        "David Beckham",
+        "Wayne Rooney"
+      ]
+    }
+  ]
+}

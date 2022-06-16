@@ -1,0 +1,135 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Shakespeare play inspired the musical &#039;West Side Story&#039;?",
+      "correct_answer": "Romeo &amp; Juliet",
+      "answers": [
+        "Hamlet",
+        "Macbeth",
+        "Othello",
+        "Romeo &amp; Juliet"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which Shakespeare play does the character Marcellus say, &quot;Something is rotten in the state of Denmark&quot;?",
+      "correct_answer": "Hamlet",
+      "answers": [
+        "Macbeth",
+        "King Lear",
+        "Twelfth Night",
+        "Hamlet"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which Shakespearean play will you find the suicide of Ophelia?",
+      "correct_answer": "Hamlet",
+      "answers": [
+        "Macbeth",
+        "Othello",
+        "King Lear",
+        "Hamlet"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was George Bizet&#039;s last opera?",
+      "correct_answer": "Carmen",
+      "answers": [
+        "Don Rodrigue",
+        "Gris&eacute;lidis",
+        "Les p&ecirc;cheurs de perles",
+        "Carmen"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What play is the quote &quot;Hell is other people&quot; from?",
+      "correct_answer": "No Exit",
+      "answers": [
+        "The Devil and the Good Lord",
+        "The Condemned of Altona",
+        "The Flies",
+        "No Exit"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "After England, more Shakespeare plays are set in this present day country than in any other.",
+      "correct_answer": "Italy",
+      "answers": [
+        "United States",
+        "Greece",
+        "France",
+        "Italy"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The musical &quot;Dirty Rotten Scoundrels&quot; is set in what country?",
+      "correct_answer": "France",
+      "answers": [
+        "USA",
+        "Germany",
+        "Sweden",
+        "France"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which Shakespeare play features the stage direction &quot;Enter a messenger, with two heads and a hand&quot;?",
+      "correct_answer": "Titus Andronicus",
+      "answers": [
+        "Othello",
+        "Macbeth",
+        "King Lear",
+        "Titus Andronicus"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The World Chess Championship in Chess, Act 1 is set in which Italian city?",
+      "correct_answer": "Merano",
+      "answers": [
+        "Venice",
+        "Milan",
+        "Rome",
+        "Merano"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?",
+      "correct_answer": "Daveed Diggs",
+      "answers": [
+        "Lin-Manuel Miranda",
+        "Javier Mu&ntilde;oz",
+        "Wayne Brady",
+        "Daveed Diggs"
+      ]
+    }
+  ]
+}
